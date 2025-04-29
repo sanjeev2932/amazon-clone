@@ -18,7 +18,7 @@
     margin-left: -30px;
 }
 .logo{
-    background-image: url(/1688364164amazon-logo-transparent.png);
+    background-image: url('1688364164amazon-logo-transparent.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -98,7 +98,7 @@
 .flag{
     width: 20px;
     height: 20px;
-    background-image: url(/united-states.png);
+    background-image: url('united-states.png');
     background-size: cover;
 }
 .select-one{
@@ -200,7 +200,7 @@ span{
 
 /* hero-section */
 .hero-section {
-    background-image: url(/61v0N2FitML._SX1500_.jpg);
+    background-image: url('61v0N2FitML._SX1500_.jpg');
     background-size: cover;
     height: 350px;
     display: flex;
@@ -237,7 +237,7 @@ span{
     margin-bottom: 20px;
 }
 .bg-img{
-    background-image: url(/Fuji_Gaming_store_Dashboard_card_1x_EN._SY304_CB564799420_.jpg);
+    background-image: url('Fuji_Gaming_store_Dashboard_card_1x_EN._SY304_CB564799420_.jpg');
     height: 300px;
     margin: 8px 14px 0px 14px;
 }
@@ -254,7 +254,7 @@ span{
 }
 /* box-2 */
 .bg-img2{
-    background-image: url(/Fuji_New_year_now_you_Dashboard_card_1X_EN._SY304_CB538057220_.jpg);
+    background-image: url('Fuji_New_year_now_you_Dashboard_card_1X_EN._SY304_CB538057220_.jpg');
     height: 300px;
     margin: 0px 15px 0px 1px;
 }
@@ -272,7 +272,7 @@ span{
 }
 /* box-3 */
 .bg-img3{
-    background-image: url(/Fuji_Desktop_Single_image_EBF_1x_v3._SY304_CB573698005_.jpg);
+    background-image: url('Fuji_Desktop_Single_image_EBF_1x_v3._SY304_CB573698005_.jpg');
     height: 300px;
     margin: 0px 15px 0px 1px;
 }
@@ -290,7 +290,7 @@ span{
 }
 /* box-4 */
 .bg-img4{
-    background-image: url(/Gaming_zone_1x._SY304_CB540253513_.jpg);
+    background-image: url('Gaming_zone_1x._SY304_CB540253513_.jpg');
     height: 300px;
     margin: 0px 15px 0px 1px;
 }
@@ -353,7 +353,7 @@ ul a{
     height: 70px;
 }
 .footlogo {
-    background-image: url(/1688364164amazon-logo-transparent.png);
+    background-image: url('1688364164amazon-logo-transparent.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
